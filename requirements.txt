@@ -1,9 +1,7 @@
-streamlit>=1.25
+streamlit
 pandas
-numpy
 matplotlib
-prophet
-scikit-learn
 seaborn
-KMeans
-TextBlob
+scikit-learn
+textblob
+openpyxl
